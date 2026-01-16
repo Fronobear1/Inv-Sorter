@@ -1,0 +1,15 @@
+{
+  "mod.invsorter.name": "InvSorter",
+  "key.invsorter.open_editor": "Open Preset Editor",
+  "key.invsorter.open_sort_menu": "Open Sort Menu",
+  "category.invsorter": "InvSorter",
+  "screen.invsorter.preset_editor": "Preset Editor",
+  "screen.invsorter.sort_menu": "Sort Presets",
+  "tooltip.invsorter.singleplayer_only": "Auto-sort works in singleplayer only",
+  "button.invsorter.sort": "SORT",
+  "button.invsorter.save": "Save",
+  "button.invsorter.preset1": "Preset 1",
+  "button.invsorter.preset2": "Preset 2",
+  "button.invsorter.preset3": "Preset 3",
+  "button.invsorter.preset4": "Preset 4"
+}

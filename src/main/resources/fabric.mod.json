@@ -1,0 +1,28 @@
+{
+	"schemaVersion": 1,
+	"id": "invsorter",
+	"version": "${version}",
+	"name": "InvSorter",
+	"description": "Smart inventory preset auto-sorter for singleplayer & hardcore.",
+	"authors": [
+		"FronoBear"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/inv-sorter/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"fronobear.invsorter.InvSorterClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.16.0",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

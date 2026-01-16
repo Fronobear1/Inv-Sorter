@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "fronobear.invsorter.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "invsorter.refmap.json",
+  "client": [
+    "InventoryScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
